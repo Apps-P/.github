@@ -1,6 +1,6 @@
 
 # Apps&P
-### 팀원
+### 팀원  
 - Designer: 양한결
     - 
 - Front/PM: 한유승
