@@ -1,8 +1,8 @@
-
 # Apps&P
 ### 팀원  
+
 - Designer: 양한결
-    - 
+    - github:
 - Front/PM: 한유승
     - github: hanyuseung
 - Back: 강채운 
